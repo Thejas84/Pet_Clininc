@@ -51,4 +51,10 @@ Comprehensive search functionality
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
+**screenshots\n\n**
+![Screenshot (327)](https://github.com/user-attachments/assets/d8790e0d-e655-4050-b68a-f744b7e99530)
+![Screenshot (331)](https://github.com/user-attachments/assets/260db7f5-622e-48d6-b892-29e926c02dcf)
 
+![Screenshot (332)](https://github.com/user-attachments/assets/824738eb-be07-4269-aa3e-bc7419402e3c)
+
+![Screenshot (333)](https://github.com/user-attachments/assets/58801c02-0a63-4b60-8c9e-725db0c03aa6)
