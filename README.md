@@ -51,7 +51,7 @@ Comprehensive search functionality
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-**screenshots\n\n**
+**screenshots**
 ![Screenshot (327)](https://github.com/user-attachments/assets/d8790e0d-e655-4050-b68a-f744b7e99530)
 ![Screenshot (331)](https://github.com/user-attachments/assets/260db7f5-622e-48d6-b892-29e926c02dcf)
 
