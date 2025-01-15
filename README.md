@@ -42,7 +42,7 @@ Access the application:
 
 Open your browser and navigate to http://localhost:8080/.
 
-**Features**
+**Features**:
 Manage pet owners
 Manage pets
 Schedule visits
