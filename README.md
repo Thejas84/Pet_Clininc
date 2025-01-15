@@ -1,14 +1,14 @@
-**Pet Clinic Application**
+**Pet Clinic Application:**
 The Pet Clinic Application is a web-based application that manages information about veterinary clinics, including details about pets, their owners, and visits.
 
-**Prerequisites**
+**Prerequisites:**
 **Java 11 or higher:** Ensure that Java is installed on your system. You can download it from the official website.
 
 **Maven:** This project uses Maven as its build tool. Download and install Maven from the official website.
 
 **MySQL:** The application uses MySQL as its database. Install MySQL from the official website.
 
-**Installation**
+**Installation:**
 Clone the repository:
 
 
@@ -23,7 +23,7 @@ Create a database named petclinic in MySQL.
 
 Update the src/main/resources/application.properties file with your MySQL credentials:
 
-**properties**
+**properties:**
 spring.datasource.url=jdbc:mysql://localhost:3306/petclinic?useSSL=false&serverTimezone=UTC
 spring.datasource.username=your_username
 spring.datasource.password=your_password
@@ -42,7 +42,7 @@ Access the application:
 
 Open your browser and navigate to http://localhost:8080/.
 
-**Features**:
+**Features:**
 Manage pet owners
 Manage pets
 Schedule visits
@@ -51,7 +51,7 @@ Comprehensive search functionality
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-**screenshots**
+**screenshots:**
 ![Screenshot (327)](https://github.com/user-attachments/assets/d8790e0d-e655-4050-b68a-f744b7e99530)
 ![Screenshot (331)](https://github.com/user-attachments/assets/260db7f5-622e-48d6-b892-29e926c02dcf)
 
